@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
-title: Recent Posts
-subtitle:
+title: Posts
+subtitle: "This section contains articles on random topics."
 
 content:
   # Filter on criteria

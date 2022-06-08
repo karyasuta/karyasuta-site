@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
-title: Projects
-subtitle: ''
+title: Latest Projects
+subtitle: 'Some data-related & programming related projects I have done in the past.'
 
 content:
   # Page type to display. E.g. project.

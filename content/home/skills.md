@@ -7,10 +7,10 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Skills
-subtitle:
+title: Area of Interests
+subtitle: "Take a look at some of the things I love working on."
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
